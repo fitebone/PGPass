@@ -1,7 +1,9 @@
 # PGPass
 A password encryption and management command line application.
 
-PGPass is the *portmanteau* of [PGP](https://www.openpgp.org/) and [Pass](https://www.passwordstore.org/). It utilizes GnuPG to encrypt and decrypt stored passwords on the device. 
+PGPass is a *portmanteau* of [PGP](https://www.openpgp.org/) and [Pass](https://www.passwordstore.org/). It utilizes GnuPG to encrypt and decrypt stored passwords on the device. 
+
+Requires access to the device terminal and a GnuPG encryption keypair.
 
 ## Installation
 
